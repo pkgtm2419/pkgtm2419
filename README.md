@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+MEAN+Developer+%F0%9F%92%BB;IoT+Enthusiast+%7C+Node.js+%7C+Angular+%7C+MongoDB;Clean+Code+Lover+%7C+Debugger+%7C+YouTuber" />
 </p>
 
-<div align="right">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" />
-</div>
----
-
 ### 🙋‍♂️ About Me
 
 - 💻 MEAN Stack Developer @ **Presage Insights Pvt. Ltd.**
