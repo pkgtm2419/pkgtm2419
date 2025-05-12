@@ -17,7 +17,7 @@
 - 🔧 Angular | Node.js | Express | MongoDB | TypeScript | HTML | CSS | Socket.IO
 - 🌍 Based in Noida/Delhi, India 🇮🇳
 - 🎓 B.Tech in Computer Science from AKTU (2013 – 2017)
-- ✍️ I also run a relatable YouTube channel: [`@adhooragyaan`](https://youtube.com/@adhooragyaan)
+- ✍️ Connect with me professionally on LinkedIn: [Pawan Kumar Gautam](https://www.linkedin.com/in/pawangtm2419/)
 - 🌐 Check out my portfolio: [Pawan Gautam Portfolio](https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/)
 
 ---
@@ -36,7 +36,6 @@
 🧠 **Portfolio Project (Live)**  
 - Built using pure HTML, CSS, JS with smooth animation  
 - Fully responsive with clean dev-style branding  
-🌐 [View My Portfolio](https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/)
 
 ---
 
@@ -68,7 +67,7 @@
 
 <div align="center">
   <a href="https://youtube.com/@adhooragyaan"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://instagram.com/adhooragyaan"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://www.linkedin.com/in/pawan-kumar-gautam-5329411b1"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="https://instagram.com/pkgtm2419"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="https://www.linkedin.com/in/pawangtm2419/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
 </div>
 
