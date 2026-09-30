@@ -2,7 +2,7 @@
 **Full Stack Engineer | Node.js · TypeScript · Angular · MongoDB**
 5+ years building scalable, real-time enterprise and IoT platforms. Noida, India.
 
-[LinkedIn](https://www.linkedin.com/in/pawangtm2419/) · [Portfolio](https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/) · [Email](mailto:[EMAIL])
+[LinkedIn](https://www.linkedin.com/in/pawangtm2419/) · [Portfolio](https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/) · [Email](mailto:pawangtm2419@gmail.com)
 
 ## What I do
 - Design modular backends (controller-service-repository) on Express.js + TypeScript
