@@ -13,8 +13,8 @@
 
 ## Selected work
 - **Enterprise CMMS / IoT platform (private, employer code):** asset management, work orders, schedulers, alarms, notifications, real-time device communication. [X]% faster [feature]; supports [X] assets / devices.
-- **node-ts-modular-api-starter** (public): production-style Express + TypeScript API with JWT/RBAC, Redis, Swagger, Jest, CI. *(link when published)*
-- **socketio-realtime-demo** (public): authenticated real-time server + Angular client. *(link when published)*
+- **node-ts-modular-api-starter** (public): production-style Express + TypeScript API with JWT/RBAC, Redis, Swagger, Jest, CI. [Repo](https://github.com/pkgtm2419/node-ts-modular-api-starter)
+- **socketio-realtime-demo** (public): authenticated real-time server + Angular client. [Repo](https://github.com/pkgtm2419/socketio-realtime-demo)
 - **Thahrav-Cafe** (public): Angular PWA. [Repo](https://github.com/pkgtm2419/Thahrav-Cafe) · [Live Demo](https://pkgtm2419.github.io/Thahrav-Cafe/)
 
 ## Tech stack
