@@ -1,24 +1,278 @@
-# Pawan Kumar Gautam
-**Full Stack Engineer | Node.js · TypeScript · Angular · MongoDB**
-5+ years building scalable, real-time enterprise and IoT platforms. Noida, India.
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/pawangtm2419/) · [Portfolio](https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/) · [Email](mailto:pawangtm2419@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Pawan%20Kumar%20Gautam&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=MEAN%20Stack%20Developer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Clean%20Architecture&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
-## What I do
-- Design modular backends (controller-service-repository) on Express.js + TypeScript
-- Build real-time systems with Socket.IO and MongoDB change streams
-- Improve performance with Redis caching, BullMQ queues, and query optimization
-- Implement JWT + RBAC security and role-based Angular interfaces (Admin / State / Zone / End User)
-- Automate delivery with GitHub Actions, AWS CodeDeploy, and PM2
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=Full+Stack+MEAN+Developer;Building+scalable+CMMS+%26+IoT+platforms;Angular+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+TypeScript;Real-time+with+Socket.IO+%2B+Redis+%2B+BullMQ;Clean+code.+Production+ready.+Always." alt="Typing SVG" />
+</a>
 
-## Selected work
-- **Enterprise CMMS / IoT platform (private, employer code):** asset management, work orders, schedulers, alarms, notifications, real-time device communication. [X]% faster [feature]; supports [X] assets / devices.
-- **node-ts-modular-api-starter** (public): production-style Express + TypeScript API with JWT/RBAC, Redis, Swagger, Jest, CI. [Repo](https://github.com/pkgtm2419/node-ts-modular-api-starter)
-- **socketio-realtime-demo** (public): authenticated real-time server + Angular client. [Repo](https://github.com/pkgtm2419/socketio-realtime-demo)
-- **Thahrav-Cafe** (public): Angular PWA. [Repo](https://github.com/pkgtm2419/Thahrav-Cafe) · [Live Demo](https://pkgtm2419.github.io/Thahrav-Cafe/)
+<br/>
 
-## Tech stack
-Node.js · TypeScript · Express.js · Angular · RxJS · MongoDB/Mongoose · Redis · BullMQ · Socket.IO · JWT/RBAC · Jest · Supertest · GitHub Actions · AWS · PM2
+<img src="https://komarev.com/ghpvc/?username=pkgtm2419&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="views"/>
+<a href="https://www.linkedin.com/in/pawangtm2419/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+<a href="https://youtube.com/@adhooragyaan"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://instagram.com/pkgtm2419"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-## Currently
-Building AI-assisted developer workflows for refactoring, testing, and documentation. Open to Full Stack / Backend roles.
+<br/><br/>
+
+> *"Code like an engineer, think like a user, and dream like an artist."* 🚀
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+- 💻 **MEAN Stack Developer** @ **Presage Insights Pvt. Ltd.**
+- 🏭 Building an **enterprise CMMS** (Computerized Maintenance Management System) used for asset, scheduler, alarm & work-order management
+- 🔌 Experienced with **IoT devices**, multi-level security & real-time BIOS updates
+- ⚡ Passionate about **real-time systems**, **performance optimization** and **production stability**
+- 🧱 Believer in **modular, feature-based architecture** — no duplicate code, no technical debt
+- 🤖 Exploring **local AI-assisted development** (Ollama + Qwen2.5-Coder + OpenCode CLI)
+- 🎓 B.Tech in Computer Science — **AKTU (2013 – 2017)**
+- 🌍 Based in **Noida, India** 🇮🇳
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+```text
+┌──────────────────────────┐
+│ const pawan = {          │
+│   role: "MEAN Developer",│
+│   focus: ["Real-time",   │
+│           "Scalability", │
+│           "Clean Code"], │
+│   coffee: Infinity ☕    │
+│ };                       │
+└──────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core (MEAN)
+<img src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs,ts&perline=5" alt="MEAN"/>
+
+### Languages & Web
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react&perline=5" alt="languages"/>
+
+### Data, Cache & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,aws&perline=4" alt="data"/>
+
+### DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jest,postman,vscode,windows&perline=7" alt="tooling"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</div>
+
+<details>
+<summary><b>📚 Full skill breakdown (click to expand)</b></summary>
+<br/>
+
+| Layer | What I work with |
+|---|---|
+| **Frontend** | Angular 15, TypeScript, HTML5, CSS3, PWA / offline recovery, role-based dashboards |
+| **Backend** | Node.js, Express.js 5, TypeScript, REST standards, Swagger docs, Winston logging |
+| **Database** | MongoDB, Mongoose (schemas, validation, population, query optimization), change streams, replica sets, multi-database architecture |
+| **Real-time** | Socket.IO, WebSockets, MongoDB change streams |
+| **Caching / Queues** | Redis, BullMQ |
+| **Security** | JWT, RBAC, strict TS validation, layered authentication, security hardening |
+| **Integrations** | Firebase Admin (push notifications), Nodemailer, Sharp (image processing) |
+| **Testing & Quality** | Jest, Supertest, ESLint, Prettier, Husky |
+| **CI/CD & Deployment** | GitHub Actions, AWS CodeDeploy, PM2, staging pipelines |
+| **Mobile** | React Native + TypeScript |
+
+</details>
+
+---
+
+## 🚀 Featured Work
+
+### 🏭 Enterprise CMMS — *Presage Insights*
+
+> A production-grade maintenance management platform focused on **scalability, reliability and performance**.
+
+| | |
+|---|---|
+| **Stack** | Angular 15 · Express.js 5 + TypeScript · MongoDB · Redis · Socket.IO |
+| **Features** | Asset management · Schedulers · Alarms · Notifications · Work orders & tasks · Role-based access |
+| **Highlights** | Multi-database architecture · PWA offline recovery · Real-time sync via change streams & replica sets · Redis caching · CI/CD staging with AWS CodeDeploy + GitHub Actions + PM2 |
+
+```mermaid
+flowchart LR
+    A[Angular 15 PWA] -->|REST + JWT/RBAC| B[Express 5 + TypeScript]
+    A <-->|Socket.IO| B
+    B --> C[(MongoDB<br/>Replica Set)]
+    B --> D[(Redis Cache)]
+    B --> E[[BullMQ Jobs]]
+    C -.->|Change Streams| B
+    E --> F[Notifications<br/>Email · Push]
+    B --> G[Swagger Docs]
+```
+
+---
+
+### 🔌 Smart Devices (IoT) Platform
+
+- ⚡ Real-time **socket-based IoT device communication**
+- 🔐 **BIOS transfer**, layered authentication and live device monitoring
+- 🧩 Full-stack: **Angular + Express + MongoDB + WebSocket**
+
+### 🎯 Role-Based UI Application
+
+- 👥 UI that adapts to roles — **Admin → State → Zone → End User**
+- 📊 Custom dashboards, filters and data visualizations per role
+
+### 📱 HRMS Mobile App *(in progress)*
+
+- React Native + TypeScript · Express + MongoDB backend
+- Roles: **Admin, HR, Employee**
+- Modules: Attendance · Employees · Leaves · Salary Slips · Payroll · Notifications · Profile
+- JWT + RBAC, location & camera permissions, OneUI-inspired design
+- Built through a **phased, agent-assisted implementation plan** (`AGENTS.md` → `IMPLEMENTATION_TASK.md` → plan section)
+
+### 🎨 Portfolio *(live)*
+
+- Pure **HTML, CSS & JS** with smooth animations, fully responsive, dev-style branding
+- 🔗 [pkgtm2419.github.io/Pawan-Gautam-Portfolio](https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/)
+
+---
+
+## 📌 Highlighted Repositories
+
+<div align="center">
+
+<a href="https://github.com/pkgtm2419/Pawan-Gautam-Portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkgtm2419&repo=Pawan-Gautam-Portfolio&theme=dracula&hide_border=true" alt="Portfolio"/></a>
+<a href="https://github.com/pkgtm2419/Service-Worker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkgtm2419&repo=Service-Worker&theme=dracula&hide_border=true" alt="Service Worker"/></a>
+<a href="https://github.com/pkgtm2419/GoogleMapAPI"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkgtm2419&repo=GoogleMapAPI&theme=dracula&hide_border=true" alt="GoogleMapAPI"/></a>
+<a href="https://github.com/pkgtm2419/Thahrav-Cafe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkgtm2419&repo=Thahrav-Cafe&theme=dracula&hide_border=true" alt="Thahrav Cafe"/></a>
+
+</div>
+
+| Repository | What it is |
+|---|---|
+| [**Pawan-Gautam-Portfolio**](https://github.com/pkgtm2419/Pawan-Gautam-Portfolio) | Animated, responsive personal portfolio |
+| [**Service-Worker**](https://github.com/pkgtm2419/Service-Worker) | Service worker experiments — caching & offline support |
+| [**GoogleMapAPI**](https://github.com/pkgtm2419/GoogleMapAPI) | Google Maps API integration demo |
+| [**Thahrav-Cafe**](https://github.com/pkgtm2419/Thahrav-Cafe) | Café website project (JavaScript) |
+| [**love**](https://github.com/pkgtm2419/love) | A fun, creative HTML project 💙 |
+
+---
+
+## 🧠 How I Engineer
+
+```text
+ feature/
+ └── module/
+     ├── route          →  clean, versioned REST endpoints
+     ├── controller     →  thin request handling
+     ├── service        →  business logic
+     ├── repository     →  data access (Mongoose)
+     ├── model · dto · validator
+     └── constants · permissions · helpers · sockets · cron · swagger
+```
+
+| Principle | In practice |
+|---|---|
+| 🧱 **Modular architecture** | Self-contained feature modules + shared `common / config / bootstrap` |
+| 🧼 **Clean & consistent** | Standard API responses, consistent naming, reusable utilities |
+| 🔒 **Secure by default** | JWT, RBAC, strict validation, hardened endpoints |
+| 🚀 **Production-ready** | Logging, monitoring, testing, CI/CD, PM2, performance tuning |
+| 📴 **Resilient UX** | PWA & offline recovery |
+| 🚫 **No tech debt** | Refactor early, avoid duplicate code and unstable releases |
+
+---
+
+## 🤖 AI-Assisted Development
+
+I'm actively integrating AI into my workflow to boost productivity — without compromising code quality.
+
+- 🖥️ Fully **local AI coding setup** on Windows 11 — **Ollama + OpenCode CLI + Qwen2.5-Coder**
+- 📋 Structured agent workflows with strict rules and **phase-by-phase** execution
+- 📄 Documented the impact in a **CMMS case study: AI Integration & Productivity Improvements**
+
+---
+
+## 🔭 Currently Exploring
+
+- 🔧 Lightweight **always-on background services** for Windows & Linux (~50 MB RAM budget)
+- 📱 **On-device mobile ad blocker** with local network analysis (no server)
+- 📈 **Algo trading tooling** for F&O using broker APIs
+- 🎙️ **Personal voice assistant** experiments with AI
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pkgtm2419&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkgtm2419&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="languages"/>
+
+<img src="https://streak-stats.demolab.com?user=pkgtm2419&theme=dracula&hide_border=true" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pkgtm2419&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pkgtm2419&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pkgtm2419/pkgtm2419/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pkgtm2419/pkgtm2419/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pkgtm2419/pkgtm2419/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Open to **collaboration**, **freelance conversations** and **tech discussions** around MEAN stack, real-time systems and IoT.
+
+<a href="https://www.linkedin.com/in/pawangtm2419/"><img src="https://img.shields.io/badge/LinkedIn-Pawan_Kumar_Gautam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://pkgtm2419.github.io/Pawan-Gautam-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-pkgtm2419.github.io-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://youtube.com/@adhooragyaan"><img src="https://img.shields.io/badge/YouTube-@adhooragyaan-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://instagram.com/pkgtm2419"><img src="https://img.shields.io/badge/Instagram-@pkgtm2419-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5FF&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+build+something+great+together.;Happy+coding!+%F0%9F%9A%80" alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
