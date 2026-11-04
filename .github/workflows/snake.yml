@@ -1,12 +1,8 @@
 name: Generate Contribution Snake
 
+# Manual only: run it from Actions tab -> "Generate Contribution Snake" -> Run workflow
 on:
-  schedule:
-    - cron: "0 0 * * *"   # every day at 00:00 UTC
-  workflow_dispatch:       # lets you run it manually from the Actions tab
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 permissions:
   contents: write
